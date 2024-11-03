@@ -22,6 +22,6 @@
 
 <p align="center">
   <a href="https://github.com/spark4k0">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spark4k0&theme=dark" alt="Langs per repo - Spark4k0"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spark4k0&theme=github_dark" alt="Langs per repo - Spark4k0"/>
   </a>
 </p>
