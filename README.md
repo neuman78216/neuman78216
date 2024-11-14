@@ -1,10 +1,10 @@
 <h1 align="center">
   <samp>
-    Welcome! I am <a target="_blank" href="https://spark4k.xyz">Spark4k</a></b>
+    Welcome! I am <a target="_blank" href="https://t.me/spark4k0">Spark4k</a></b>
   </samp>
 </h1>
 <h3 align="center">&gt; Self-taught Developer!</h3>
-<h3 align="center">&gt; Website (soon): https://spark4k.xyz/</h3>
+<h3 align="center">&gt; Telegram: https://t.me/spark4k0</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spark4k0&label=Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="spark4k0" /> </p>
 
